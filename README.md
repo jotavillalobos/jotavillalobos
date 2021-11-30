@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jotavillalobos
 - 👀 I’m interested in skydiving!
 - 🌱 I’m currently learning to skydive!!
-- 💞️ I’m looking to collaborate on anything related to technologies and skydive
+- 💞️ I’m looking to collaborate on anything related to technologies or skydive
 - 📫 How to reach me ...
 
 <!---
